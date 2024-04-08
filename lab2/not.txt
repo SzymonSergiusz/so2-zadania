@@ -1,0 +1,6 @@
+uprawnienia, chmod, r w x, zapis liczbowy
+ln - dowiązania
+linki wzgledne i bezwzględne
+polecenie realpath
+
+z gwiazdką stickybit
