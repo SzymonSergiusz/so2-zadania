@@ -1,3 +1,3 @@
 [submodule "studentA"]
-	path = lab5-tictac/Lab5/Tic Tac Toe
+	path = lab5-tictac/StudentA/Tic Tac Toe
 	url = https://github.com/jonasz-lazar-pwr/operating-systems-laboratories
